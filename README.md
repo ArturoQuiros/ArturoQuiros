@@ -2,15 +2,7 @@
 
 👨‍💻 I am ITSM and Cybersecurity Specialist, Geek, and Tech Lover 🤖
 
-💻 Currently a advanced Software Engineering Student at the Universidad Tecnica Nacional de Costa Rica 🇨🇷
-
-**My Interest**:
-- Secure Software Development 
-- JavaScript / TypeScript 
-- Frontend Frameworks 
-  - ReactJS
-  - NextJS
-- UI / UX 
+💻 Currently a advanced Software Engineering Student at UTN 🇨🇷
 
  **I am open to**:
 - Any collobration work 🤝
