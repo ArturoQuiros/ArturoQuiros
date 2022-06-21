@@ -2,7 +2,7 @@
 
 👨‍💻 I am ITSM and Cybersecurity Specialist, Geek, and Tech Lover 🤖
 
-💻 Currently a advanced Software Engineering Student at UTN 🇨🇷
+💻 Currently a Software Engineering Student at UTN 🇨🇷
 
  **I am open to**:
 - Any collobration work 🤝
