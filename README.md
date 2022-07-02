@@ -2,6 +2,8 @@
 
 👨‍💻 I am ITSM and Cybersecurity Specialist, Geek, and Tech Lover 🤖
 
+🚀 Self Motivated and Passionated Freelance Web Developer
+
 💻 Currently a Software Engineering Student at UTN 🇨🇷
 
  **I am open to**:
