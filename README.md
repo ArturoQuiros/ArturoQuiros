@@ -1,6 +1,7 @@
-### Hi there, I'm Arturo Quirós 👋
+### Hi there, 👋
+### I'm Arturo Quirós 👋
 
-👨‍💻 I am ITSM and Cybersecurity Specialist, Geek, and Tech Lover 🤖
+👨‍💻 ITSM and Cybersecurity Specialist, Geek, and Tech Lover 🤖
 
 🚀 Self Motivated and Passionated Freelance Web Developer
 
