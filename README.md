@@ -1,5 +1,5 @@
 ### Hi there, 👋
-### I'm Arturo Quirós 👋
+### I'm Arturo Quirós 
 
 👨‍💻 ITSM and Cybersecurity Specialist, Geek, and Tech Lover 🤖
 
