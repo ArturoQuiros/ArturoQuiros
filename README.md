@@ -3,7 +3,7 @@
 
 👨‍💻 ITSM and Cybersecurity Specialist, Geek, and Tech Lover 🤖
 
-🚀 Self Motivated and Passionated Fullstack Developer
+🚀 Self Motivated and Passionated Frotend Developer
 
 💻 Currently a Software Engineering Student at UTN 🇨🇷
 
