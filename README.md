@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2E86C1?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Docker-0054a5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernets-0054a5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 
 ## Connect with me:
